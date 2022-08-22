@@ -1,0 +1,11 @@
+        body {
+            background: rgb(43, 80, 226);
+        }
+        img { 
+            height: 150px
+        }
+ li {color: red}
+a{ color: orange}
+h2 { color: yellow}
+.blue-bg { background: blue}
+.red-bg {background: purple}
